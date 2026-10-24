@@ -1,0 +1,7 @@
+edge_id,source,target,weight_m
+R01,S,A,100
+R02,A,B,120
+R03,B,C,100
+R04,C,A,140
+R05,A,D,200
+R06,D,E,150
