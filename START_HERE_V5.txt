@@ -1,0 +1,17 @@
+RAIN-ROUTE V5 — GEOGRAPHIC EVIDENCE WORKSPACE
+
+1. In this folder open Command Prompt.
+2. Run: python -m pip install -r requirements.txt
+3. Run: python -m streamlit run app.py
+4. Select DTDMIS and Recompute.
+5. Open Geographic reference view; CLICK a colored E01-E12 line on the map.
+6. To show documented road curves, upload a GeoJSON FeatureCollection with
+   LineString features with properties.edge_id exactly E01 ... E12.
+7. Download the review checklist and have appropriate local experts verify
+   the actual school gate, sources, and road attachments.
+
+IMPORTANT: Preloaded lines are straight-line references NOT actual road geometry.
+The included GeoJSON file is only an UNVALIDATED template; it contains the SAME straight lines.
+Never call this map independently geographically validated without evidence.
+The archived Danao matrix and the manuscript are untouched by geometry uploads.
+This app's direct line selection uses Streamlit >= 1.47.

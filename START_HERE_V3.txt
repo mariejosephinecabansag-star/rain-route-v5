@@ -1,0 +1,13 @@
+RAIN-ROUTE V3 – CLICKABLE EDGE TILES + COMPACT NETWORK DIAGRAM
+
+1. Open Command Prompt in the folder containing app.py.
+2. Install once: python -m pip install -r requirements.txt
+3. Run: python -m streamlit run app.py
+4. Select DTDMIS archived analytical input and click Recompute.
+5. Open Interactive edge test. Click the E07 tile (or any E01–E12 tile) on the right.
+6. Look for ECI 50.00% and origins O2, O4, O6 listed as ACCESS LOST for E07.
+7. The selected graph edge turns red; the network diagram is schematic and its lines are NOT themselves clickable.
+8. Existing other-school CSV upload, matrix, ECI/ORI and JSON export tabs are retained.
+
+SAFETY / EVIDENCE
+Only the development interface changed; the frozen graph, hash, 72-case matrix and mathematical engine are unmodified. This is not geographic validation or road safety guidance. Keep the professor-review evidence folder unchanged.

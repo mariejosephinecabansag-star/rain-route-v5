@@ -1,0 +1,21 @@
+RAIN-ROUTE V2 — School Access Network Lab
+
+1. Unzip this package on your computer.
+2. Open Command Prompt inside the RAIN_ROUTE_TRANSFERABLE_MVP folder.
+3. Install requirements once: python -m pip install -r requirements.txt
+4. Launch: python -m streamlit run app.py
+5. Select "DTDMIS — archived analytical input" and click "Recompute all single-edge scenarios".
+6. Check 72 scenarios / 59 retained / 13 lost / SARI 81.94%, E07 ECI 50%, O3 ORI 66.67%.
+7. View the structural network diagram, index tables, matrix, and audit exports.
+8. To analyze another school, select "Another school — upload CSVs". Supply real, reviewed roads and origin attachments; enter the school's validated node ID. This app does not locate a school by name.
+
+Important:
+- Input Danao CSVs are the previously frozen analytical inputs from the professor-review package.
+- The school entrance, graph completeness, and individual road locations remain subject to external geographic review.
+- The graph schematic is not geographically positioned.
+- Compostela remains exploratory; it is not packaged as validated geography.
+- Do not replace or overwrite the evidence package already sent to the professor; V2 is a separate software development version.
+
+Run self-tests:
+python -m pytest tests -q
+Or, without pytest: python tests/test_danao_v2.py (requires module path installed; from root use python -m pytest).

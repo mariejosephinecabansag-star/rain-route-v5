@@ -1,0 +1,9 @@
+RAIN-ROUTE V4.1 — UI cleanup
+
+Fixes displayed source-code block in Geographic reference view and Interactive edge test; no changes to graph data, engine, or computation.
+
+Launch from this folder:
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+
+The map is provisional node-to-node lines, not independently validated road geometry.

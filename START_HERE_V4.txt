@@ -1,0 +1,11 @@
+RAIN-ROUTE V4 — PROVISIONAL GEOGRAPHIC REFERENCE
+
+1) Extract the ZIP. Open Command Prompt inside RAIN_ROUTE_V4_APP.
+2) python -m pip install -r requirements.txt
+3) python -m streamlit run app.py
+4) Select DTDMIS archived analytical input and click Recompute.
+5) Click Geographic reference view; choose E07.
+
+The basemap needs internet. Edges are STRAIGHT LINES joining ARCHIVED PROXY NODE COORDINATES, NOT field-confirmed road geometry. N04 is an ANALYTICAL school attachment, not a certified gate. The 72-case core results are unchanged. Existing schematic E01–E12 buttons remain in Interactive edge test.
+
+V4 is a separate prototype and must not be substituted for the professor-reviewed evidence without review.
