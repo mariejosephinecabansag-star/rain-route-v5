@@ -1,0 +1,123 @@
+{
+  "source": "RAIN_ROUTE_DANAO_PHASE_2_FINAL_ADVISER_FREEZE.xlsx \u2014 FINAL_NODES and FINAL_TEST_EDGES; provisional desk/proxy coordinates, not surveyed road geometry",
+  "nodes": {
+    "N01": {
+      "node_id": "N01",
+      "description": "P.G. Almendras St \u00d7 A. Mabini St",
+      "lat": 10.52171,
+      "lon": 124.02421,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N02": {
+      "node_id": "N02",
+      "description": "P.G. Almendras St \u00d7 A. Bonifacio Extension",
+      "lat": 10.52221,
+      "lon": 124.02424,
+      "coordinate_status": "ANALYTICAL PROXY",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N03": {
+      "node_id": "N03",
+      "description": "P.G. Almendras St \u00d7 A. Bonifacio St",
+      "lat": 10.52271,
+      "lon": 124.02427,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N04": {
+      "node_id": "N04",
+      "description": "P.G. Almendras St \u00d7 Beatriz D. Durano St Ext",
+      "lat": 10.52445,
+      "lon": 124.02608,
+      "coordinate_status": "ANALYTICAL PROXY",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N05": {
+      "node_id": "N05",
+      "description": "P.G. Almendras St \u00d7 Beatriz D. Durano St",
+      "lat": 10.52719,
+      "lon": 124.02795,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N06": {
+      "node_id": "N06",
+      "description": "P.G. Almendras St \u00d7 D. Durano St",
+      "lat": 10.52714,
+      "lon": 124.0268,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N07": {
+      "node_id": "N07",
+      "description": "P.G. Almendras St \u00d7 Lapu-lapu St",
+      "lat": 10.52803,
+      "lon": 124.02849,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N08": {
+      "node_id": "N08",
+      "description": "P.G. Almendras St \u00d7 Juan Luna St",
+      "lat": 10.51792,
+      "lon": 124.02188,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N09": {
+      "node_id": "N09",
+      "description": "P.G. Almendras St \u00d7 Pio del Pilar St",
+      "lat": 10.52106,
+      "lon": 124.02396,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N10": {
+      "node_id": "N10",
+      "description": "P.G. Almendras St \u00d7 Gospel Road",
+      "lat": 10.52165,
+      "lon": 124.02433,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N11": {
+      "node_id": "N11",
+      "description": "Cambiohan Rotonda",
+      "lat": 10.52086,
+      "lon": 124.02364,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N12": {
+      "node_id": "N12",
+      "description": "A. Bonifacio Extension \u00d7 Gospel Road",
+      "lat": 10.52209,
+      "lon": 124.02293,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    },
+    "N13": {
+      "node_id": "N13",
+      "description": "A. Bonifacio Extension \u00d7 A. Bonifacio St",
+      "lat": 10.5226,
+      "lon": 124.02498,
+      "coordinate_status": "DESK COORDINATE",
+      "evidence_note": "Named connection retained from source-supported Phase 2 skeleton; coordinate precision is desk-based, not surveyed."
+    }
+  },
+  "edge_names": {
+    "E01": "P.G. Almendras Street",
+    "E02": "A. Bonifacio Extension / A. Bonifacio connection",
+    "E03": "A. Bonifacio Extension",
+    "E04": "A. Bonifacio Extension",
+    "E05": "P.G. Almendras Street",
+    "E06": "P.G. Almendras Street",
+    "E07": "P.G. Almendras Street",
+    "E08": "Beatriz D. Durano corridor",
+    "E09": "P.G. Almendras Street",
+    "E10": "P.G. Almendras Street",
+    "E11": "P.G. Almendras Street",
+    "E12": "P.G. Almendras Street / Cambiohan Rotonda"
+  }
+}
