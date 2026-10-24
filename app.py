@@ -9,7 +9,7 @@ from geometry_review import parse_edge_geojson, geometry_template, review_rows, 
 from rain_route_engine import analyze, csv_rows, InputError, to_csv, REQUIRED_EDGES, REQUIRED_ORIGINS
 
 ROOT = Path(__file__).parent
-DATA = ROOT / 'data'
+DATA = ROOT / 'DATA'
 st.set_page_config(page_title='RAIN-ROUTE | School Access Network Lab',page_icon='🛣️',layout='wide')
 st.title('🛣️ RAIN-ROUTE | School Access Network Lab V5')
 st.caption('Configurable Python graph-analysis prototype • Single-edge disruption • ECI / ORI / SARI')
